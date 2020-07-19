@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>DAVID WAHOME</title>
+  </head>
+  <body>
+  <img src="images/MeTiger.jpg" alt="A photo of a tiger">
+  <p>I have created repositories on github:</p>
+  <ol>
+    <li>CookieRecipeDepository- Clean up of HTML document</li>
+    <li>my-first-webpage</li>
+    <li>hello-world</li>
+  </ol>
+  <h3>Hobbies:</h3>
+  <ol>
+    <li>Photography</li>
+    <li>Concerts</li>
+    <li>Gym</li>
+  </ol>
+  <h3>My Background</h3>
+  <p>I went to KU, worked as a credit officer for Centsavvy Credit</p>
+  <h4>My Reasons:</h4>
+  <p>I chose to do this class because I am fascinated by coding. I wanted to learn a skill also that seemed compatible with my proffession. The affordability of the course was a plus</p>
+  </body>
+</html>
